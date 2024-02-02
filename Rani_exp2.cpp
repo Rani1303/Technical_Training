@@ -10,7 +10,6 @@ vector<int> leftRotate(const vector<int>& arr, int d) {
 
     return result;
 }
-
 int main() {
     int n, d;
     cout << "Enter the size of the array: ";
